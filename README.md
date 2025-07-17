@@ -1,4 +1,4 @@
-The files are the data and codes for the article “`Trump Won, Biden Cheated`: Economic Inequality Increases Online Support for Conspiracy Theories about the 2020 Presidential Election".
+The files are the data and codes for the article “'Trump Won, Biden Cheated': Economic Inequality Increases Online Support for Conspiracy Theories about the 2020 Presidential Election".
 
 The file "stata_data" includes all key variables of this study.
 
